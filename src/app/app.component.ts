@@ -40,6 +40,6 @@ export class AppComponent {
   };
   isClicked(topEmployee: any) {
     console.log(topEmployee);
-    this.openDialog();
+    
   }
 }
